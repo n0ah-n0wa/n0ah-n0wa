@@ -23,7 +23,7 @@ Previously spent 5+ years in broadcast operations and OTT product management (up
 
 ## Languages
 
-Ukrainian & Russian (native) · English (C1) · German (B2) · Serbo-Chroatian group (A2)
+Ukrainian & Russian (native) · English (C1) · German (B2) · Serbo-Croatian group (A2)
 
 ## Contact
 
