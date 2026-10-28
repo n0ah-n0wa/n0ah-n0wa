@@ -14,12 +14,12 @@ Previously spent 5+ years in broadcast operations and OTT product management (up
 
 ## Projects
 
-- **[VitalMesh](https://github.com/n0ah-n0wa/VitalMesh)** — Cloud-native e-health data platform: Go API gateway and Rust processor on Kubernetes with Terraform and OpenTelemetry (synthetic data only).
-- **[DocuLens](https://github.com/n0ah-n0wa/DocuLens)** — Grounded RAG for PDF Q&A with hybrid retrieval, page-level citations, FastAPI, and Next.js.
-- **[Monetra](https://github.com/n0ah-n0wa/Monetra)** — Full-stack personal finance app: FastAPI, React, PostgreSQL, exact decimal money handling.
-- **[ContentForge](https://github.com/n0ah-n0wa/ContentForge)** — Headless CMS with ASP.NET Core, Vue 3, content lifecycle, versioning, and Azure deploy.
-- **[CartForge](https://github.com/n0ah-n0wa/CartForge)** — E-commerce REST API: Spring Boot modular monolith, Redis cache, Kubernetes/Helm.
-- **[Pulse Chat](https://github.com/n0ah-n0wa/Pulse-Chat)** — Real-time chat: NestJS, React, MongoDB, Redis Pub/Sub across multiple instances.
+- **[VitalMesh](https://github.com/n0ah-n0wa/VitalMesh)** - Cloud-native e-health data platform: Go API gateway and Rust processor on Kubernetes with Terraform and OpenTelemetry (synthetic data only).
+- **[DocuLens](https://github.com/n0ah-n0wa/DocuLens)** - Grounded RAG for PDF Q&A with hybrid retrieval, page-level citations, FastAPI, and Next.js.
+- **[Monetra](https://github.com/n0ah-n0wa/Monetra)** - Full-stack personal finance app: FastAPI, React, PostgreSQL, exact decimal money handling.
+- **[ContentForge](https://github.com/n0ah-n0wa/ContentForge)** - Headless CMS with ASP.NET Core, Vue 3, content lifecycle, versioning, and Azure deploy.
+- **[CartForge](https://github.com/n0ah-n0wa/CartForge)** - E-commerce REST API: Spring Boot modular monolith, Redis cache, Kubernetes/Helm.
+- **[Pulse Chat](https://github.com/n0ah-n0wa/Pulse-Chat)** - Real-time chat: NestJS, React, MongoDB, Redis Pub/Sub across multiple instances.
 - **[V-Shop](https://github.com/n0ah-n0wa/V-Shop)** - Telegram shop bot in production for a real client: stamp-card loyalty, server-side roulette, referrals. Python, aiogram 3, PostgreSQL.
 - **[news_bot](https://github.com/n0ah-n0wa/news_bot)** - AI-assisted news curation pipeline for Telegram with human-in-the-loop editorial review. Python, Telethon, OpenAI, Docker.
 
