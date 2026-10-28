@@ -21,7 +21,7 @@ Previously spent 5+ years in broadcast operations and OTT product management (up
 - **[CartForge](https://github.com/n0ah-n0wa/CartForge)** - E-commerce REST API: Spring Boot modular monolith, Redis cache, Kubernetes/Helm.
 - **[Pulse Chat](https://github.com/n0ah-n0wa/Pulse-Chat)** - Real-time chat: NestJS, React, MongoDB, Redis Pub/Sub across multiple instances.
 - **[V-Shop](https://github.com/n0ah-n0wa/V-Shop)** - Telegram shop bot in production for a real client: stamp-card loyalty, server-side roulette, referrals. Python, aiogram 3, PostgreSQL.
-- **[news_bot](https://github.com/n0ah-n0wa/news_bot)** - AI-assisted news curation pipeline for Telegram with human-in-the-loop editorial review. Python, Telethon, OpenAI, Docker.
+- **[news_bot](https://github.com/n0ah-n0wa/news_bot)** - AI-assisted news curation pipeline for Telegram with human-in-the-loop editorial review. Python, Telethon, OpenAI, Docker. In production since 2024 for a client's editorial team. The production deployment runs from a private repo; this is the cleaned-up public version.
 
 ## Languages
 
